@@ -1,13 +1,13 @@
-package com.example.nexdom.challenge;
+package com.nexdom.challenge;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Application {
+public class NexdomApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Application.class, args);
+		SpringApplication.run(NexdomApplication.class, args);
 	}
 
 }
